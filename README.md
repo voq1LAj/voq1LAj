@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @voq1LAj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @STeaK667
+- 👀 I’m interested in digging in
+- 🌱 I’m currently learning Spanish € HTML
+- 💞️ I’m looking to collaborate my main room with my kitchen 
+- 📫 How to reach me - maybe not so early
 
 <!---
 voq1LAj/voq1LAj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
